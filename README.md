@@ -1,10 +1,12 @@
-Project Name
 
+Project Name 
 ✈️ Share&Go
 
 Share the gear & save the fare.
 
-Project Idea
+---
+
+📌 Project Idea
 
 Share&Go is not just about renting travel essentials. It’s about making travel more affordable through sharing.
 
@@ -14,7 +16,9 @@ We believe that:
 - Every shared item creates an opportunity.
 - Every journey should cost less, not more.
 
-Team Members
+---
+
+👥 Team Members
 
 1. Aliaa Hosam Abd El-Hady
 2. Habiba Tarek Saeed
@@ -23,10 +27,14 @@ Team Members
 5. Ghada Ahmed Essam El-Din
 6. Esraa Ahmed Mohamed
 
+---
+
 📲 Follow Us
 
 - Facebook: "Visit our Facebook Page" (https://www.facebook.com/profile.php?id=61596126988100)
 - Instagram: "Follow us on Instagram" (https://www.instagram.com/share_go6/)
+
+---
 
 🎒 What We Create
 
@@ -54,6 +62,8 @@ Team Members
 - Reducing unnecessary purchases.
 - Encouraging a culture of sharing.
 
+---
+
 ⚙️ How It Works
 
 1. Discover travel essentials.
@@ -62,17 +72,25 @@ Team Members
 4. Rent for your trip.
 5. Return and share again.
 
+---
+
 🌍 Vision
 
 To become a trusted peer-to-peer platform for renting travel essentials in Egypt, making travel more affordable, helping people earn from unused items, and promoting a culture of sharing over buying.
+
+---
 
 💬 Brand Message
 
 Share the gear & save the fare.
 
+---
+
 📍 Location
 
 Alexandria, Cairo, Giza, Egypt.
+
+---
 
 🗓️ Work Plan
 
@@ -116,6 +134,8 @@ Our work follows a structured digital marketing process to develop, launch, and 
 - Measuring inquiries and customer interest.
 - Analyzing results and recommending improvements.
 
+---
+
 👥 Roles & Responsibilities
 
 1. Aliaa Hosam Abd El-Hady — Team Leader | Content Writing & Copywriting
@@ -140,6 +160,7 @@ Our work follows a structured digital marketing process to develop, launch, and 
 - Competitor analysis.
 - PEST analysis.
 - Market research and identifying market opportunities.
+- SWOT analysis 
 
 4. Fatma Atia Ali — Design & Creative Content
 
@@ -152,9 +173,9 @@ Our work follows a structured digital marketing process to develop, launch, and 
 5. Ghada Ahmed Essam El-Din — Marketing Strategy & Planning
 
 - Marketing Mix (7Ps) development.
-- SWOT analysis.
 - Buyer Persona development.
 - Marketing strategy and planning.
+- SOSTAC Planning 
 
 6. Esraa Ahmed Mohamed — Social Media Management
 
@@ -162,6 +183,8 @@ Our work follows a structured digital marketing process to develop, launch, and 
 - Content publishing and scheduling.
 - Managing audience interactions and messages.
 - Monitoring social media activities and engagement.
+
+---
 
 📊 KPIs (Key Performance Indicators)
 
@@ -199,9 +222,13 @@ Our Success Criteria
 - Generating genuine interest and inquiries.
 - Validating the project concept.
 
+---
+
 🎓 Instructor
 
 Eng. Moamen El-Badry
+
+---
 
 🚀 Be Part of Share&Go
 
