@@ -1,243 +1,114 @@
+SHARE&GO
 
-Project Name 
-✈️ Share&Go
+Tagline: Share the gear & save the fare.
+----------
 
-Share the gear & save the fare.
+1. Project Name
 
----
+Share&Go
 
-📌 Project Idea
+Project Category: Peer-to-Peer Travel Essentials Rental.
+-----------
 
-Share&Go is not just about renting travel essentials. It’s about making travel more affordable through sharing.
+2. Project Idea
 
-We believe that:
+Share&Go is a peer-to-peer travel essentials rental service that helps people access the equipment they need for their trips without having to purchase every item.
 
-- Every unused item has value.
-- Every shared item creates an opportunity.
-- Every journey should cost less, not more.
+The project focuses on organizing travel equipment into suitable categories and offering travel packages that match different trip needs.
 
----
+Target Locations: Alexandria and Cairo, Egypt.
 
-👥 Team Members
+Target Audience:
 
-1. Aliaa Hosam Abd El-Hady
-2. Habiba Tarek Saeed
-3. Hebatallah Abdelftah Mohamed
-4. Fatma Atia Ali
-5. Ghada Ahmed Essam El-Din
-6. Esraa Ahmed Mohamed
+- Renters: Students, young travelers aged 18–27, and occasional travelers.
+- Equipment Owners: Individuals who own travel and camping equipment and want to list their items on the Share&Go page.
 
----
+Initial Equipment Categories:
 
-📲 Follow Us
+1. Air Travel Essentials.
+2. Beach & Summer Essentials.
+3. Camping Equipment.
+4. Photography Equipment.
+5. Family & Kids Travel Essentials.
 
-- Facebook: "Visit our Facebook Page" (https://www.facebook.com/profile.php?id=61596126988100)
-- Instagram: "Follow us on Instagram" (https://www.instagram.com/share_go6/)
+Positioning: A specialized service that helps young people and university students prepare for their trips through organized equipment and suitable packages.
 
----
+Unique Selling Point (USP): Travel packages designed to suit different trip needs, while allowing equipment owners to list their items for free on the Share&Go page.
+--------------
 
-🎒 What We Create
+3. Team Members
 
-1. Travel Essentials Rental
+1. Aliaa Hosam Abd El-Hady.
+2. Habiba Tarek Saeed.
+3. Heba Allah Abdel Fattah.
+4. Fatma Attia Ali.
+5. Ghada Ahmed Essam El-Din.
+6. Esraa Ahmed Mohamed.
+---------------
 
-- Travel bags and luggage.
-- Camping and outdoor equipment.
-- Essentials for short trips.
+4. Work Plan
 
-2. Peer-to-Peer Sharing
+Project Timeline: November 1 – December 31, 2026.
 
-- Connecting item owners with people who need to rent.
-- Helping owners earn from their unused belongings.
-- Making renting simple and accessible.
+- Research & Analysis: Internal, customer, competitor, PEST, and SWOT analyses.
+- Strategy & Planning: Marketing strategy, SMART objectives, Buyer Persona, 7Ps, SOSTAC, and content strategy.
+- Content Execution: Brand identity, content calendar, and publishing on Facebook and Instagram.
+- Monitoring & Evaluation: Tracking social media performance, owner registrations, rental requests, and campaign KPIs.
+----------------
 
-3. Smart & Affordable Travel
+5. Roles & Responsibilities
 
-- Saving money compared to buying.
-- Renting only when needed.
-- Making travel budgets go further.
+Team Member| Role| Responsibilities
+Aliaa Hosam Abd El-Hady| Team Leader & Content Manager| Team coordination, content writing, copywriting, content calendar, and audience targeting.
+Habiba Tarek Saeed| Performance & Analytics Specialist| SMART objectives, KPIs, reporting, and budget tracking.
+Heba Allah Abdel Fattah| Market Research Specialist| Internal, customer, and competitor analysis, PEST, and SWOT.
+Fatma Attia Ali| Creative Designer| Logo, brand identity, social media designs, and visual content.
+Ghada Ahmed Essam El-Din| Marketing Strategist| Marketing strategy, Buyer Persona, 7Ps, and SOSTAC.
+Esraa Ahmed Mohamed| Social Media Manager| Account management, publishing, scheduling, and community management.
+----------------
 
-4. Sustainable Sharing
+6. KPIs
 
-- Giving unused items a new purpose.
-- Reducing unnecessary purchases.
-- Encouraging a culture of sharing.
+KPI| Target| Deadline
+Registered Equipment Owners| 5–10| December 31, 2026
+Equipment Categories| 5-10| Initial launch
+Social Media Followers| 200| December 31, 2026
+Rental Requests| 5| December 31, 2026
 
----
+Monitoring Tools: Meta Business Suite, Facebook and Instagram Insights, Google Forms, and Excel / Google Sheets, What's app Business, Canva.
+-----------------
 
-⚙️ How It Works
+7. Instructor
 
-1. Discover travel essentials.
-2. Find what you need.
-3. Connect with item owners.
-4. Rent for your trip.
-5. Return and share again.
+Eng. Momen El-Badry
+Program: DEPI – Digital Marketing Specialist.
+------------------
 
----
+8. Project Files
 
-🌍 Vision
+- Internal Analysis.
+- Customer Analysis.
+- Competitor Analysis.
+- PEST Analysis.
+- SWOT Analysis.
+- Executive Summary.
+- Share&Go SMART Analysis.
+- Share&Go Marketing Strategy.
+- 7Ps Marketing Mix.
+- Share&Go Content Strategy.
+- Content Calendar.
+- Content Execution Plan.
+- Action, Roles and Due Dates Calendar.
 
-To become a trusted peer-to-peer platform for renting travel essentials in Egypt, making travel more affordable, helping people earn from unused items, and promoting a culture of sharing over buying.
+Google Drive – Project Files:
+https://drive.google.com/drive/folders/1MlD7mdOqRmJK3hnEZblIX9PuVfo5VBOq
 
----
+-------------------
 
-💬 Brand Message
+9. FOLLOW US:
 
-Share the gear & save the fare.
+Facebook:
+https://www.facebook.com/share/1AzP8RMndc/
 
----
-
-📍 Location
-
-Alexandria, Cairo, Giza, Egypt.
-
----
-
-🗓️ Work Plan
-
-Our work follows a structured digital marketing process to develop, launch, and evaluate Share&Go.
-
-1. Research & Situation Analysis
-
-- Internal analysis.
-- Customer needs and analysis.
-- Competitor analysis.
-- PEST and SWOT analysis.
-- Identifying market opportunities and challenges.
-
-2. Marketing Strategy Development
-
-- Market segmentation and target audience.
-- Buyer personas.
-- Unique Selling Proposition (USP).
-- Brand positioning.
-- Marketing objectives.
-- Marketing Mix (7Ps).
-
-3. Content & Marketing Planning
-
-- SOSTAC planning.
-- Content strategy and content calendar.
-- Content pillars, platforms, formats, and communication style.
-- Written and visual content creation.
-
-4. Digital Presence & Execution
-
-- Creating and optimizing social media accounts.
-- Establishing the brand's online presence.
-- Publishing content and engaging with potential owners and renters.
-- Collecting feedback and inquiries.
-
-5. Performance Monitoring & Evaluation
-
-- Monitoring social media performance.
-- Tracking reach and engagement.
-- Measuring inquiries and customer interest.
-- Analyzing results and recommending improvements.
-
----
-
-👥 Roles & Responsibilities
-
-1. Aliaa Hosam Abd El-Hady — Team Leader | Content Writing & Copywriting
-
-- Team leadership and coordination.
-- Content writing and copywriting.
-- Content calendar development.
-- Target market identification.
-- Market segmentation.
-
-2. Habiba Tarek Saeed — Data Analysis & Performance Measurement
-
-- SMART objectives development and analysis.
-- KPI development and monitoring.
-- Performance measurement and reporting.
-- Budget, costs, revenue estimates, and financial calculations.
-
-3. Hebatallah Abdelftah Mohamed — Research & Market Analysis
-
-- Internal analysis.
-- Customer analysis.
-- Competitor analysis.
-- PEST analysis.
-- Market research and identifying market opportunities.
-- SWOT analysis 
-
-4. Fatma Atia Ali — Design & Creative Content
-
-- Logo and brand identity design.
-- Visual design and creative content.
-- Social media post designs.
-- Video and Reels design and production.
-- All visual materials related to the project.
-
-5. Ghada Ahmed Essam El-Din — Marketing Strategy & Planning
-
-- Marketing Mix (7Ps) development.
-- Buyer Persona development.
-- Marketing strategy and planning.
-- SOSTAC Planning 
-
-6. Esraa Ahmed Mohamed — Social Media Management
-
-- Social media account management.
-- Content publishing and scheduling.
-- Managing audience interactions and messages.
-- Monitoring social media activities and engagement.
-
----
-
-📊 KPIs (Key Performance Indicators)
-
-We use simple and realistic indicators to understand audience interest, brand awareness, and the potential of Share&Go.
-
-1. Brand Awareness
-
-- Social media reach.
-- Profile visits.
-- Follower growth.
-
-2. Audience Engagement
-
-- Likes, comments, shares, and saves.
-- Engagement rate.
-- Messages and inquiries.
-
-3. Customer Interest
-
-- Potential owners interested in listing their items.
-- Renters asking about the service.
-- Rental inquiries.
-
-4. Project Validation
-
-- Attracting both item owners and renters.
-- Evidence of interest in the peer-to-peer rental model.
-- Successful connections or rentals, if achieved.
-
-Our Success Criteria
-
-- Building brand awareness.
-- Reaching and engaging the target audience.
-- Attracting potential owners and renters.
-- Generating genuine interest and inquiries.
-- Validating the project concept.
-
----
-
-🎓 Instructor
-
-Eng. Moamen El-Badry
-
----
-
-🚀 Be Part of Share&Go
-
-🎒 Your Next Adventure Starts Here.
-
-List your travel essentials and earn from what you don't use.
-
-Find the gear you need and save on your next trip.
-
-Ready to save and earn? Share, rent, and travel smarter with Share&Go! ✈️
-
-📁 Project File: "Share&Go – Project Files (Google Drive)" (https://drive.google.com/drive/folders/1iqeEm1vYjw2uq1DDDgFj16_-fF_o-3X_)
+Instagram:
+https://www.instagram.com/share_go6?srtk=d2MycW40cDJvY2Y1
