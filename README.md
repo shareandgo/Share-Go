@@ -125,6 +125,7 @@ Responsibilities:
 - Competitor Analysis.
 - PEST Analysis.
 - SWOT Analysis.
+- Paid advertising campaigns.
 
 4. Fatma Attia Ali
 
@@ -217,6 +218,8 @@ Program: DEPI – Digital Marketing Specialist.
 11. Content Calendar.
 12. Content Execution Plan.
 13. Action, Roles and Due Dates Calendar.
+14. Paid Advertising Budget
+15. Operational & Legal Documentation.
 
 Google Drive – Project Files
 
